@@ -113,5 +113,8 @@
 		<module>consumer-dept-80</module>
 		<module>cloud-eureka-7001</module>
 		<module>cloud-eureka-7002</module>
+		<module>cloud-eureka-7003</module>
+		<module>provide-dept-8002</module>
+		<module>provide-dept-8003</module>
 	</modules>
 </project>

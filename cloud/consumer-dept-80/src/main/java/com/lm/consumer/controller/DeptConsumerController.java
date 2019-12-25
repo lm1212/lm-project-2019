@@ -12,7 +12,7 @@ import com.lm.entity.Dept;
 @RestController
 public class DeptConsumerController {
 	
-	private static final String url = "http://localhost:8001/";
+	private static final String url = "http://cloud-dept/";
 	
 	@Autowired
 	private RestTemplate restTemplate;
